@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+h1{
+    font-family: cursive;
+    color: red;
+    font-weight: bolder;
+}
+h2{
+    font-family: monospace;
+    color: yellow;
+    font-weight: bold;
+}
+label{
+    font-family: fantasy;
+    color: cyan;
+    font-weight: lighter;
+}
